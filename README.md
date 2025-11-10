@@ -27,31 +27,6 @@
 
 ---
 
-<!-- Animated Social Links -->
-<p align="center">
-  <a href="mailto:tiagoxuliu@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="45" alt="email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tiago-xuliu-133403377/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="45" alt="linkedin"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/tiagoxuliu">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="45" alt="github"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="45" alt="discord"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something+amazing!;Always+open+for+AI+and+Python+collaborations." />
-</p>
-
----
-
 ## 🧠 About Me  
 
 🎓 I'm currently studying **Computer Engineering** at the Polytechnic Institute of Viseu.  
@@ -63,10 +38,26 @@
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,swift,flutter,react,js,nodejs,html,css,django,arduino,postgresql,mongodb,sql,linux,redhat,windows,vscode,figma,github,cisco" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
